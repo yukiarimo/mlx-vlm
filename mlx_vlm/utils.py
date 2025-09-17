@@ -32,6 +32,7 @@ MODEL_REMAPPING = {
     "llava-qwen2": "llava_bunny",
     "bunny-llama": "llava_bunny",
     "lfm2-vl": "lfm2_vl",
+    "yuna-miru": "yuna_miru",
     "cohere2_vision": "aya_vision",
 }
 

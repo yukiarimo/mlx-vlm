@@ -28,6 +28,7 @@ MODEL_CONFIG = {
     "idefics2": MessageFormat.LIST_WITH_IMAGE,
     "idefics3": MessageFormat.LIST_WITH_IMAGE_FIRST,
     "lfm2-vl": MessageFormat.LIST_WITH_IMAGE_FIRST,
+    "yuna-miru": MessageFormat.LIST_WITH_IMAGE_FIRST,
     "aya_vision": MessageFormat.LIST_WITH_IMAGE,
     "cohere2_vision": MessageFormat.LIST_WITH_IMAGE,
     "qwen2_vl": MessageFormat.LIST_WITH_IMAGE,
